@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.khram2003.pycharmchatgpt
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
